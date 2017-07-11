@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Meu Portfolio</string>
+
+    <string name="myNanodegreeApps">Meus Aplicativos Nanodegree</string>
+
+    <string name="btnClickText">Este botão vai abrir o aplicativo</string>
+
+    <string name="appFilmesPopulares">Filmes Populares</string>
+    <string name="appStockHawk">Stock Hawk</string>
+    <string name="appFacaMaior">Faça-o Maior</string>
+    <string name="appFacaMaterial">Faça com Material</string>
+    <string name="appSejaOnipresente">Seja Onipresente</string>
+    <string name="appCapstone">Capstone: meu aplicativo</string>
+
+    <string name="tagFilmesPopulares">pop</string>
+    <string name="tagStockHawk">hawk</string>
+    <string name="tagFacaMaior">bigger</string>
+    <string name="tagFacaMaterial">mat</string>
+    <string name="tagSejaOnipresente">ubiq</string>
+    <string name="tagCapstone">caps</string>
+</resources>
